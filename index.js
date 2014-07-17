@@ -16,6 +16,7 @@ module.exports = function (engine) {
 		ect: ['<%', '%>'],
 		ejs: ['<%', '%>'],
 		haml: null,
+		hbs: ['{{', '}}'],
 		handlebars: ['{{', '}}'],
 		hogan: ['{{', '}}'],
 		jade: null,
