@@ -1,7 +1,7 @@
 {
   "name": "delimiter-map",
   "description": "Delimiter map for common template engines. Compatible with consolidate.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/delimiter-map",
   "author": {
     "name": "Jon Schlinkert",
